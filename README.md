@@ -31,23 +31,24 @@
 
 ## 👨‍💻 About Me
 
-```
-💼  Role        →  Data Analyst
-🎓  Education   →  M.Sc. Computer Science
-📜  Certificate →  Google Data Analytics Professional (Coursera · May 2025)
-                →  Google Business Intelligence Foundations (Coursera)
-💼  Experience  →  Data Analytics Intern · Labmentix Edtech Pvt. Ltd. (6 Months · LOR)
-📍  Location    →  Agra, Uttar Pradesh, India
-🟢  Status      →  Open to Work — Available Immediately
+<img align="right" alt="Data Analytics" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+Name        : Chetan Upadhayay
+Role        : Aspiring Data Analyst
+Education   : M.Sc. Computer Science
+Experience  : 6 Months · Data Analytics Intern
+Location    : Agra, Uttar Pradesh, India
+Status      : Open to Work 🟢
 ```
 
-M.Sc. Computer Science graduate with hands-on internship experience and industry-recognized Google certifications. I turn messy, raw datasets into clean dashboards and actionable business insights — comfortable working end-to-end from **SQL queries** to **Power BI dashboards**.
+M.Sc. Computer Science graduate with **6 months of real-world internship experience** and **2 Google-certified specializations**. I specialize in transforming complex, raw datasets into clean, decision-ready dashboards and business insights.
 
-- 🎓 **M.Sc. Computer Science** — strong foundation in data structures, databases & statistics
-- 📜 **[Google Data Analytics Professional Certificate](https://coursera.org/share/fe68ce066f78ba23a685bac3fbe9666b)** — Coursera · 7-course specialization · May 2025
-- 📜 **[Google Business Intelligence — Foundations](https://coursera.org/share/1a6a8c6d1f4ae0c6a029d0d0dd6dbae2)** — Coursera
-- 💼 **Data Analytics Intern @ Labmentix Edtech Pvt. Ltd.** — 6 months · built real-world dashboards · LOR received
-- 📊 **4 Real Projects** — 100K+ rows analyzed across E-Commerce, HR, Sales & Aviation
+With a strong foundation in **MySQL, Power BI, and Excel**, I have independently built 4 end-to-end analytics projects covering E-Commerce, HR, Aviation, and Sales — analyzing 100K+ records and delivering measurable insights.
+
+> 💡 I don't just analyze data — I tell the story behind it.
+
+<br clear="right"/>
 
 ---
 
@@ -63,7 +64,7 @@ M.Sc. Computer Science graduate with hands-on internship experience and industry
 
 ```
 MySQL     →  Joins · Subqueries · Window Functions · CTEs
-           →  Stored Procedures · Views · Cohort Analysis
+           →  Stored Procedures · Views · RFM · Cohort Analysis
 Power BI  →  Data Modelling · DAX · Relationships · KPI Dashboards
 Excel     →  Pivot Tables · VLOOKUP · Data Cleaning · EDA
 ```
@@ -73,7 +74,7 @@ Excel     →  Pivot Tables · VLOOKUP · Data Cleaning · EDA
 ## 💼 Experience
 
 ### Data Analytics Intern — Labmentix Edtech Pvt. Ltd.
-*6 Months · Letter of Recommendation Received*
+*Apr 2025 – Oct 2025 · 6 Months · Letter of Recommendation Received*
 
 Worked as a Data Analytics Intern where I built end-to-end analytics projects using real-world datasets. Gained hands-on experience in data cleaning, exploratory analysis, and dashboard development.
 
@@ -88,8 +89,8 @@ Worked as a Data Analytics Intern where I built end-to-end analytics projects us
 
 | Certificate | Issuer | Completed | Link |
 |-------------|--------|-----------|------|
-| Google Data Analytics Professional | Coursera | 2025 | [View ↗](https://coursera.org/share/fe68ce066f78ba23a685bac3fbe9666b) |
-| Google Business Intelligence — Foundations | Coursera | 2025 | [View ↗](https://coursera.org/share/1a6a8c6d1f4ae0c6a029d0d0dd6dbae2) |
+| Google Data Analytics Professional | Coursera | May 21, 2025 | [View ↗](https://coursera.org/share/fe68ce066f78ba23a685bac3fbe9666b) |
+| Google Business Intelligence Professional | Coursera | May 26, 2025 | [View ↗](https://coursera.org/share/08d892bf092867639a2643a845230483) |
 
 ---
 
@@ -181,18 +182,7 @@ Built a Year-over-Year sales comparison dashboard using DAX time intelligence fu
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chetanupadhayay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD580&icon_color=FFD580&text_color=8BA3C7&count_private=true" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanupadhayay&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD580&fire=FFD580&currStreakLabel=FFD580&sideLabels=8BA3C7&dates=8BA3C7" width="47%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanupadhayay&theme=react-dark&bg_color=0D1117&color=FFD580&line=FFD580&point=ffffff&hide_border=true&area=true" width="96%"/>
-
-</div>
 
 ---
 
