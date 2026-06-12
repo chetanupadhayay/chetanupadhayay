@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Chetan%20Upadhayay&fontSize=50&fontColor=fff&fontAlignY=38&desc=Data%20Analyst%20%7C%20MySQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Excel&descSize=18&descColor=FFD580&descAlignY=58&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Chetan%20Upadhayay&fontSize=50&fontColor=fff&fontAlignY=38&desc=Data%20Analyst%20%7C%20MySQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Excel&descSize=18&descColor=FFD580&descAlignY=58&animation=twinkling"/>
 
 </div>
 
@@ -42,9 +42,9 @@ Location    : Agra, Uttar Pradesh, India
 Status      : Open to Work 🟢
 ```
 
-M.Sc. Computer Science graduate with **6 months of real-world internship experience** and **2 Google-certified specializations**. I specialize in transforming complex, raw datasets into clean, decision-ready dashboards and business insights.
+M.Sc. Computer Science graduate with **6 months of real-world internship experience** and **3 industry-recognized certifications**. I specialize in transforming complex, raw datasets into clean, decision-ready dashboards and business insights.
 
-With a strong foundation in **MySQL, Python, Power BI, and Excel**, I have independently built 4 end-to-end analytics projects covering E-Commerce, HR, Aviation, and Sales — analyzing 260K+ records and delivering measurable insights.
+With a strong foundation in **MySQL, Python, Power BI, and Excel**, I have independently built 5 end-to-end analytics projects covering E-Commerce, HR, Aviation, Sales & IPL Cricket — analyzing 260K+ records and delivering measurable insights.
 
 > 💡 I don't just analyze data — I tell the story behind it.
 
@@ -94,6 +94,7 @@ Worked as a Data Analytics Intern where I built end-to-end analytics projects us
 |-------------|--------|-----------|------|
 | Google Data Analytics Professional | Coursera | May 2025 | [View ↗](https://coursera.org/share/fe68ce066f78ba23a685bac3fbe9666b) |
 | Google Business Intelligence Professional | Coursera | May 26, 2025 | [View ↗](https://coursera.org/verify/professional-cert/7U932SXV81A2) |
+| Career Essentials in Data Analysis | Microsoft & LinkedIn | Sep 20, 2025 | [View ↗](https://www.linkedin.com/learning/certificates/1992f4c4c5911934c9c07be50e59286cc920ba8673221d6a0c8d0c1e025e651c) |
 
 ---
 
@@ -186,7 +187,24 @@ Built a Year-over-Year sales comparison dashboard using DAX time intelligence fu
 
 ---
 
+### 05 · 🏏 [IPL Data Analysis](https://github.com/chetanupadhayay/IPL-Data-Analysis)
 
+> **Python · Pandas · Matplotlib · Seaborn** &nbsp;·&nbsp; 17 Seasons &nbsp;·&nbsp; 2008–2024
+
+End-to-end exploratory data analysis of 17 IPL seasons using Python. Analyzed ball-by-ball data across 1,090 matches and 260K+ deliveries to uncover team performance, batting & bowling records, toss patterns, and venue insights.
+
+- 🧹 **Data Cleaning:** Handled nulls, fixed Super Over edge cases, merged match + delivery datasets
+- 🏆 **Team Analysis:** Win records across all 19 teams — MI leads with 144 wins
+- 🏏 **Batting:** Top run scorers, strike rates — V Kohli leads with 8,014 runs
+- 🎯 **Bowling:** Wicket takers, economy rates, dot balls — Chahal leads with 205 wickets
+- 🎲 **Toss Analysis:** Proved toss has no significant advantage (49.2% vs 50.8%)
+- 📊 **Visualizations:** 8 charts using Matplotlib & Seaborn
+
+```
+🏏 1,090 matches      📅 17 seasons         👕 19 teams
+🏃 3,47,756 runs      6️⃣ 13,051 sixes        🎯 12,950 wickets
+🥇 V Kohli 8,014 runs  🎳 Chahal 205 wkts    🏟️ Eden Gardens 77 matches
+```
 
 ---
 
