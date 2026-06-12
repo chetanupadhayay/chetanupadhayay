@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFD580&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+business+insights+%F0%9F%93%8A;4+real-world+projects+%7C+100K%2B+rows+analyzed+%F0%9F%9B%A2%EF%B8%8F;Open+to+Data+Analyst+opportunities+%F0%9F%9F%A2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFD580&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+business+insights+%F0%9F%93%8A;5+real-world+projects+%7C+260K%2B+rows+analyzed+%F0%9F%9B%A2%EF%B8%8F;MySQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Open+to+Data+Analyst+opportunities+%F0%9F%9F%A2" />
 
 <br/>
 
@@ -44,7 +44,7 @@ Status      : Open to Work 🟢
 
 M.Sc. Computer Science graduate with **6 months of real-world internship experience** and **2 Google-certified specializations**. I specialize in transforming complex, raw datasets into clean, decision-ready dashboards and business insights.
 
-With a strong foundation in **MySQL, Power BI, and Excel**, I have independently built 4 end-to-end analytics projects covering E-Commerce, HR, Aviation, and Sales — analyzing 100K+ records and delivering measurable insights.
+With a strong foundation in **MySQL, Python, Power BI, and Excel**, I have independently built 4 end-to-end analytics projects covering E-Commerce, HR, Aviation, and Sales — analyzing 260K+ records and delivering measurable insights.
 
 > 💡 I don't just analyze data — I tell the story behind it.
 
@@ -57,6 +57,7 @@ With a strong foundation in **MySQL, Power BI, and Excel**, I have independently
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -65,6 +66,7 @@ With a strong foundation in **MySQL, Power BI, and Excel**, I have independently
 ```
 MySQL     →  Joins · Subqueries · Window Functions · CTEs
            →  Stored Procedures · Views · RFM · Cohort Analysis
+Python    →  Pandas · NumPy · Matplotlib · Seaborn · EDA
 Power BI  →  Data Modelling · DAX · Relationships · KPI Dashboards
 Excel     →  Pivot Tables · VLOOKUP · Data Cleaning · EDA
 ```
@@ -82,6 +84,7 @@ Worked as a Data Analytics Intern where I built end-to-end analytics projects us
 - ✈️ Built **Airline Performance Dashboard** — 6M flight records analysis
 - 👥 Built **HR Analytics Dashboard** — employee attrition analysis
 - 📈 Built **Sales Performance Dashboard** — YoY revenue comparison
+- 🏏 Built **IPL Data Analysis** — Python EDA on 260K+ ball-by-ball records
 
 ---
 
@@ -89,8 +92,8 @@ Worked as a Data Analytics Intern where I built end-to-end analytics projects us
 
 | Certificate | Issuer | Completed | Link |
 |-------------|--------|-----------|------|
-| Google Data Analytics Professional | Coursera | May 21, 2025 | [View ↗](https://coursera.org/share/fe68ce066f78ba23a685bac3fbe9666b) |
-| Google Business Intelligence Professional | Coursera | May 26, 2025 | [View ↗](https://coursera.org/share/08d892bf092867639a2643a845230483) |
+| Google Data Analytics Professional | Coursera | May 2025 | [View ↗](https://coursera.org/share/fe68ce066f78ba23a685bac3fbe9666b) |
+| Google Business Intelligence Professional | Coursera | May 26, 2025 | [View ↗](https://coursera.org/verify/professional-cert/7U932SXV81A2) |
 
 ---
 
@@ -104,6 +107,7 @@ Worked as a Data Analytics Intern where I built end-to-end analytics projects us
 | ✈️ | [Airline Performance & Delay Analysis](https://github.com/chetanupadhayay/Airline-Performance-Delay-Analysis) | Power BI | 6M flights · 81% on-time · delay root cause |
 | 👥 | [HR Analytics Dashboard](https://github.com/chetanupadhayay/HR-Analytics-Dashboard) | Excel · Power BI | 16.12% attrition · 1,470 employees |
 | 📈 | [Sales Performance Dashboard](https://github.com/chetanupadhayay/Sales-Performance-Dashboard) | Excel · Power BI | 46.9% YoY growth · 133.5% target hit |
+| 🏏 | [IPL Data Analysis](https://github.com/chetanupadhayay/IPL-Data-Analysis) | Python · Pandas · Seaborn | 17 seasons · 260K+ deliveries · EDA |
 
 </div>
 
